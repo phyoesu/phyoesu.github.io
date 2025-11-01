@@ -3,7 +3,7 @@
 
 <img src="https://yourusername.github.io/img/profile.png" alt="Profile Photo" width="140" style="border-radius: 20px;"/>
 
-# 🌙 Hi there, I'm <span style="color:#58a6ff;">[Your Full Name]</span> 👋
+# 🌙 Hi there, I'm <span style="color:#58a6ff;">Ms. Phyoe Su Thein</span> 👋
 
 🎓 *International Business Management Student at Payap University*  
 📍 *Chiang Mai, Thailand*  
@@ -18,11 +18,11 @@
 🎓 **Payap University**  
 _Bachelor of Business Administration (International Business Management)_  
 📍 Chiang Mai, Thailand  
-📆 Currently Studying (Expected Graduation: [Year])
+📆 Currently Studying (Expected Graduation: 2026)
 
 🎓 **Shand Community College**  
 _Associate Degree in Social Science_  
-📆 Completed [Year]
+📆 Completed 2023
 
 ---
 
@@ -76,9 +76,10 @@ _Associate Degree in Social Science_
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)]mornpayneharn@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mornpayneharn@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://phyoesu.github.io/)
-[![Location](https://www.google.com/maps/place/Hermesinn/@18.7933514,99.0262647,17z/data=!3m1!4b1!4m9!3m8!1s0x30da252440534095:0x5056f4a5692d4072!5m2!4m1!1i2!8m2!3d18.7933514!4d99.0288396!16s%2Fg%2F11j20cdj8v?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D)](https://goo.gl/maps/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Location](https://img.shields.io/badge/Chiang%20Mai-Hermesinn-%23ff9f43?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Hermesinn/@18.7933514,99.0262647,17z/data=!3m1!4b1!4m9!3m8!1s0x30da252440534095:0x5056f4a5692d4072!5m2!4m1!1i2!8m2!3d18.7933514!4d99.0288396!16s%2Fg%2F11j20cdj8v?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D)
 
 </div>
 
@@ -91,6 +92,7 @@ _Associate Degree in Social Science_
 
 </div>
 
+---
 
-
-
+### 🖤 Theme
+> Designed for **dark mode** — best viewed on GitHub's dark interface 🌙  
