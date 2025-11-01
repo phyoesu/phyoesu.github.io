@@ -1,4 +1,4 @@
-<img src="27946.jpg" width="30%">
+<img src="27946.jpg" width="20%">
 #  _Ms. Phyoe Su Thein_
 
 🎓 *International Business Management Student at Payap University*  
