@@ -1,7 +1,7 @@
 <!-- Dark Mode Portfolio CV for GitHub Profile -->
 <div align="center">
 
-<img src="1761984766387.jpg" alt="Profile Photo" width="150" style="border-radius: 20px;"/>
+<img src="27946.jpg" alt="Profile Photo" width="150" style="border-radius: 20px;"/>
 
 # 🌙 Hi there, I'm <span style="color:#58a6ff;">Ms. Phyoe Su Thein</span> 👋
 
