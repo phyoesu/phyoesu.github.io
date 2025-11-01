@@ -1,6 +1,4 @@
-
-
-
+<img src="https://github.com/phyoesu/phyoesu.github.io/blob/main/27946.jpg" align="middle" width="30%"
 # 🌙 Ms. Phyoe Su Thein</span> 👋
 
 🎓 *International Business Management Student at Payap University*  
