@@ -78,13 +78,15 @@ Experience
 
 ## 📫 Contact Me
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mornpayneharn@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://phyoesu.github.io/)
 
 
-</div>
+
+📍 **Location:** Chiang Mai, Thailand  
+📧 **Email:** [mornpayneharn@gmail.com]  
+🌐 **GitHub:** [https://phyoesu.github.io/]
+
+
+
 
 ---
 
