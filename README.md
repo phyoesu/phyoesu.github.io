@@ -76,7 +76,7 @@ _Associate Degree in Social Science_
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)][mornpayneharn@gmail.com]
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)]mornpayneharn@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://phyoesu.github.io/)
 [![Location](https://www.google.com/maps/place/Hermesinn/@18.7933514,99.0262647,17z/data=!3m1!4b1!4m9!3m8!1s0x30da252440534095:0x5056f4a5692d4072!5m2!4m1!1i2!8m2!3d18.7933514!4d99.0288396!16s%2Fg%2F11j20cdj8v?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D)](https://goo.gl/maps/)
 
