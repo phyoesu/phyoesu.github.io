@@ -78,10 +78,9 @@ _Associate Degree in Social Science_
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mornpayneharn@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://phyoesu.github.io/)
 
-[![Location](https://img.shields.io/badge/Chiang%20Mai-Hermesinn-%23ff9f43?style=for-the-badge&logo=googlemaps&logoColor=white)
+
 </div>
 
 ---
