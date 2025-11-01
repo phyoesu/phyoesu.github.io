@@ -71,7 +71,7 @@ Experience
 
 | Language | Proficiency |
 |-----------|--------------|
-| 🇹🇭 Thai | Native |
+| br  Burmess  | native |
 | 🇬🇧 English | Intermediate |
 
 ---
