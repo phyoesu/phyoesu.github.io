@@ -94,5 +94,4 @@ _Associate Degree in Social Science_
 
 ---
 
-### 🖤 Theme
-> Designed for **dark mode** — best viewed on GitHub's dark interface 🌙  
+
