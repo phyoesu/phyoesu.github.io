@@ -1,4 +1,4 @@
-<img src="https://github.com/phyoesu/phyoesu.github.io/blob/main/27946.jpg" align="middle" width="30%">
+<img src="https://github.com/phyoesu/phyoesu.github.io/blob/main/27946.jpg" width="30%">
 #  _Ms. Phyoe Su Thein_
 
 🎓 *International Business Management Student at Payap University*  
