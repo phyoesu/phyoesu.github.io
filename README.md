@@ -1,10 +1,7 @@
-<!-- Dark Mode Portfolio CV for GitHub Profile -->
-<div align="center">
 
-<img src="27946.jpg" alt="Profile Photo" width="180
-" style="border-radius: 20px;"/>
 
-# 🌙 Hi there, I'm <span style="color:#58a6ff;">Ms. Phyoe Su Thein</span> 👋
+
+# 🌙 Ms. Phyoe Su Thein</span> 👋
 
 🎓 *International Business Management Student at Payap University*  
 📍 *Chiang Mai, Thailand*  
@@ -12,7 +9,6 @@
 
 ---
 
-</div>
 
 ## 🏫 Education
 
@@ -21,7 +17,7 @@ _Bachelor of Business Administration (International Business Management)_
 📍 Chiang Mai, Thailand  
 📆 Currently Studying (Expected Graduation: 2026)
 
-🎓 **Shand Community College**  
+🎓 **Shan Community College**  
 _Associate Degree in Social Science_  
 📆 Completed 2023
 
