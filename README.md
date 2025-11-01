@@ -38,4 +38,5 @@ _Associate Degree in Social Science_
 Looking for an internship opportunity in **International Business**, **Marketing**, or **Operations** where I can apply teamwork and Microsoft Office skills while gaining real-world experience.
 📍 **Location:** Chiang Mai, Thailand  
 📧 **Email:** [mornpayneharn@gmail.com]
+
 🌐 **GitHub:** [https://phyoesu.github.io/]
