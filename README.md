@@ -41,22 +41,25 @@ _Associate Degree in Social Science_
 
 ---
 
-## 🧠 Skills & Tools
+Experience
 
-<div align="center">
+**Team Collaboration Projects**  
+- Worked effectively in team-based academic and volunteer projects.  
+- Helped with planning, coordination, and communication.  
 
-![Teamwork](https://img.shields.io/badge/-Teamwork-1f6feb?style=for-the-badge&logo=handshake&logoColor=white)
-![Communication](https://img.shields.io/badge/-Communication-238636?style=for-the-badge&logo=weblate&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-d83b01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-b7472a?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Word](https://img.shields.io/badge/-Word-2b579a?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/-Problem_Solving-8250df?style=for-the-badge&logo=codeforces&logoColor=white)
-![Time Management](https://img.shields.io/badge/-Time_Management-f59e0b?style=for-the-badge&logo=clockify&logoColor=white)
-
-</div>
+**Microsoft Office Skills**  
+- Proficient in Word, Excel, PowerPoint, and Outlook.  
+- Able to create professional reports, spreadsheets, and presentations.  
 
 ---
+
+## 💡 Skills
+
+- Teamwork & Communication  
+- Microsoft Office Suite  
+- Analytical & Problem-Solving  
+- Adaptability  
+- Time Management 
 
 ## 🎯 Objective
 
